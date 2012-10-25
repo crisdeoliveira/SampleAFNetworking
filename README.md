@@ -1,7 +1,7 @@
 SampleAFNetworking
 =============
 
-This is a simple application based on template Single View Application and networking library AFNetworking.
+This is a simple application based on template Single View Application and AFNetworking library.
 
 Requirements
 -------
